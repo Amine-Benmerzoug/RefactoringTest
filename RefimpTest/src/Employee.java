@@ -1,10 +1,8 @@
 
 //Try to perform refactoring to get refector commits
 
-public class Employee  {
+public class Employee extends Person  {
 	
-	String Name;
-	String Age;
 	String id;
 	String Salary;
 	

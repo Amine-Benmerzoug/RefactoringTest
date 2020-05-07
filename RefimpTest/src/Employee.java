@@ -6,6 +6,5 @@ public class Employee extends Person  {
 	String id;
 	String empSalary;
 	
-	
 
 }

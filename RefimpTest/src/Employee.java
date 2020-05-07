@@ -1,4 +1,6 @@
 
+//Try to perform refactoring to get refector commits
+
 public class Employee  {
 	
 	String Name;
@@ -6,7 +8,6 @@ public class Employee  {
 	String id;
 	String Salary;
 	
-
 	
 
 }

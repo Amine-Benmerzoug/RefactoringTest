@@ -4,7 +4,7 @@
 public class Employee extends Person  {
 	
 	String id;
-	String Salary;
+	String empSalary;
 	
 	
 
